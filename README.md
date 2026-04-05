@@ -10,7 +10,7 @@ The focus areas include **Embedded Systems, IoT, Robotics, Computer Vision, Mach
 
 ## Repository Structure
 
-```
+...
 internship-work/
 │
 ├── Aruco-overlay/
